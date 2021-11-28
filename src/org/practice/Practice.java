@@ -12,6 +12,7 @@ public class Practice {
 				System.out.println(r);
 				
 			}
+			System.out.println("SGR");
 			
 		}
 	}
